@@ -150,3 +150,6 @@ on the webpage
 
 we get reverse shell
 and now we can read flag
+
+# Framework
+As I mentioned earlier we can see this is running golang, awesome
